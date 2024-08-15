@@ -6,3 +6,5 @@ Exemplo simples de API Rest com Spring boot para testes de deploy
 - Handling error no ResponseEntity
 - Adicionado log.info
 - Pendente Adicionar PUT, POST, DELETE com H2
+- Pendente adicionar swagger
+- e outros...
