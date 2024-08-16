@@ -5,6 +5,7 @@ Exemplo simples de API Rest com Spring boot para testes de deploy
 - DTO APIError para retornar error de forma padronizada
 - Handling error no ResponseEntity
 - Adicionado log.info
+- Adicionado Containerfile e dockerfile para gerar imagem com Podman ou Docker
 - Pendente Adicionar PUT, POST, DELETE com H2
 - Pendente adicionar swagger
 - e outros...
