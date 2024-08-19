@@ -6,6 +6,6 @@ Exemplo simples de API Rest com Spring boot para testes de deploy
 - Handling error no ResponseEntity
 - Adicionado log.info
 - Adicionado Containerfile e dockerfile para gerar imagem com Podman ou Docker
+- Adicionado swagger http://localhost:8080/swagger-ui/index.html
 - Pendente Adicionar PUT, POST, DELETE com H2
-- Pendente adicionar swagger
 - e outros...
